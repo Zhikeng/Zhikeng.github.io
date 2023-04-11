@@ -8,15 +8,36 @@
     },
     {
       "id": 2,
+      "name": "banana",
+      "price": 2,
+      "image": "banana.jpg",
+      "description": "Martinique Banaa"
+    },
+    {
+      "id": 3,
+      "name": "blueberry",
+      "price": 5,
+      "image": "blueberry.jpg",
+      "description": "Canadian Blueberry"
+    },
+    {
+      "id": 4,
+      "name": "mango",
+      "price": 6,
+      "image": "mango.jpg",
+      "description": "Philippine Mango"
+    },
+    {
+      "id": 5,
       "name": "orange",
       "price": 4,
       "image": "orange.jpg",
       "description": "Navel Orange"
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "watermelon",
-      "price": 5,
+      "price": 8,
       "image": "watermelon.jpg",
       "description": "Seedless Watermelon"
     }
